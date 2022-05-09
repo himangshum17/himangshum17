@@ -1,6 +1,6 @@
 # Hi, I'm Himangshu 👋
 
-![Banner]()
+![Banner](https://raw.githubusercontent.com/himangshum17/himangshum17/main/banner.jpg)
 ---
 
 ### About Me
