@@ -11,11 +11,12 @@ I use Figma for wireframing, designing, prototyping, and from there i take those
 
 ### Skills and Experience
 
-* React
 * HTML, CSS, JS
+* ReactJs
 * UI Design
 
 ### Currently Learning
 
-* React
-* Nextjs
+* ReactJs
+* NextJs
+* Typescript
