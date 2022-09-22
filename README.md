@@ -20,3 +20,4 @@ I use Figma for wireframing, designing, prototyping, and from there i take those
 * ReactJs
 * NextJs
 * Typescript
+* React Native
