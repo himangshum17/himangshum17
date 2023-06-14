@@ -5,8 +5,7 @@
 
 ### About Me
 
-I’m, a Frontend developer, UI designer based on Durgapur, West Bengal, India. Currently working at [Swadesh Softwares Pvt. Ltd.](https://swadeshsoftwares.com/)
-I use Figma for wireframing, designing, prototyping, and from there i take those designs pixel perfect to the development ecosystem by using html, css, javascript and React. When i am not working, love to explore new cities, art and food.
+I'm a Frontend Developer, based on Durgapur, West-Bengal, India. Currently working with LearningMate Solutions Pvt. Ltd I've started my career as a Web Designer, and gradually shifted my career as a Frontend Developer. I enjoy building web apps.
 
 
 ### Skills and Experience
@@ -20,4 +19,4 @@ I use Figma for wireframing, designing, prototyping, and from there i take those
 * ReactJs
 * NextJs
 * Typescript
-* React Native
+* Unit Testing
