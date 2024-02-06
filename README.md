@@ -12,6 +12,7 @@ I'm a Frontend Developer, based on Durgapur, West-Bengal, India. Currently worki
 
 * HTML, CSS, JS
 * ReactJs
+* TypeScript
 * UI Design
 
 ### Currently Learning
